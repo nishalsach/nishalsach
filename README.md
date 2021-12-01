@@ -1,6 +1,6 @@
 ### Sachita Nishal, PhD Student in Computing, Society, and the Murky In-Between
 
-Hi, I’m Sachita, and I'm a 2nd-year PhD student at Northwestern University's program in [https://tsb.northwestern.edu/](Technology and Social Behaviour). 
+Hi, I’m Sachita, and I'm a 2nd-year PhD student at Northwestern University's program in (https://tsb.northwestern.edu/)[Technology and Social Behaviour]. 
 
 I currently work with [http://www.nickdiakopoulos.com](Dr. Nick Diakopoulos) in the [https://cj-lab.org](Computational Journalism Lab), where we study the impact of algorithms and automation on the news. 
 
