@@ -1,4 +1,11 @@
-### Hi there 👋
+### Sachita Nishal, PhD Student in Computing, Society, and the Murky In-Between
+
+Hi, I’m Sachita, and I'm a 2nd-year PhD student at Northwestern University's program in [https://tsb.northwestern.edu/](Technology and Social Behaviour). 
+
+I currently work with [http://www.nickdiakopoulos.com](Dr. Nick Diakopoulos) in the [https://cj-lab.org](Computational Journalism Lab), where we study the impact of algorithms and automation on the news. 
+
+Some of my other projects also involve the study of cultural industries such as music and film, with a focus on how novelty impacts the success and reception of cultural products. In my work, I combine methods in machine learning, text-as-data, and network science with qualitative approaches drawn from the social sciences. Welcome to my GitHub!
+
 
 <!--
 **nishalsach/nishalsach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
