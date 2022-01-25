@@ -4,7 +4,7 @@ Hi, I’m Sachita, and I'm a 2nd-year PhD student at Northwestern University's p
 
 I currently work with [Dr. Nick Diakopoulos](http://www.nickdiakopoulos.com) in the [Computational Journalism Lab](https://cj-lab.org), where we design computational tools to empower journalists, and study the impact of such automation on news production and dissemination.
 
-Some of my other projects also involve the study of cultural industries such as music and film, with a focus on how novelty impacts the success and reception of cultural products.
+Some of my other projects also involve the study of cultural industries such as music and film, with a focus on how novelty impacts the success and reception of cultural products. You can reach me through my email: nishal at u dot northwestern dot edu :)
 
 
 <!--
