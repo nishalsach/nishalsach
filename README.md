@@ -1,15 +1,12 @@
 ### Sachita Nishal, PhD Student in Computing, Society, and the Murky In-Between
 
-Hi, I’m Sachita, welcome to my GitHub!
-
-I'm a 2nd-year PhD student at Northwestern University's program in [Technology and Social Behaviour](https://tsb.northwestern.edu/), which is a joint program across the School of Communication and the Department of Computer Science. In my research, I'm very interested in studying how algorithms impact our consumption of 🎼, 🎞, 📺, and 📰 media. To this end, I combine methods in machine learning, text-as-data, and network science, with qualitative approaches drawn from the social sciences. 
-
-Hi, I'm Sachita, and I build interactive AI systems to augment human decision-making. I'm a 3rd-year PhD student @ Northwestern Univeristy, in the area of [Computer Science + Communication Studies]((https://tsb.northwestern.edu/). I'm advised by [Dr. Nick Diakopoulos](http://www.nickdiakopoulos.com)
+Hi, I'm Sachita, and I build interactive AI systems to augment human decision-making. I'm a 3rd-year PhD student @ Northwestern Univeristy, in the area of [Computer Science + Communication Studies](https://tsb.northwestern.edu/). I'm advised by [Dr. Nick Diakopoulos](http://www.nickdiakopoulos.com)
 
 I work at the intersection of Human-computer Interaction (HCI), Natural Language Processing, and Intelligent User Interfaces. I build tools to help science journalists discover + understand newsworthy stories from the latest scientific research, to support decision-making about what makes the news.
 
 Some of my other projects also involve the study of cultural industries such as music and film, with a focus on how novelty impacts the success and reception of cultural products. You can reach me through my email: nishal at u dot northwestern dot edu :)
 
+Find more on my website here: https://nishalsach.github.io
 <!--
 **nishalsach/nishalsach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
