@@ -1,6 +1,6 @@
 ### Sachita Nishal, PhD Student in Computing, Society, and the Murky In-Between
 
-Hi, I'm Sachita, a 4th-year PhD @ Northwestern University advised by Dr. Nick Diakopoulos. I design human-centered AI systems that support search and creativity in knowledge work. My research focuses on helping science journalists discover, understand, and write newsworthy stories, and aligning the AI tools with their professional and ethical values.
+Hi, I'm Sachita, a 4th-year PhD @ Northwestern University advised by Dr. Nick Diakopoulos. I design human-centered AI systems that support search and creativity in knowledge work. 
 
 Some of my other projects also involve the study of cultural industries such as music and film, with a focus on how novelty impacts the success and reception of cultural products. You can reach me through my email: nishal at u dot northwestern dot edu :)
 
